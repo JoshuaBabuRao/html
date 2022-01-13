@@ -5,7 +5,7 @@ public class Java_Test{
 
     {
         int a =44;
-
+        System.out.println("Addition :" + (a+b));
 
     }
 }

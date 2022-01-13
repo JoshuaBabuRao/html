@@ -5,6 +5,7 @@ public class Java_Test{
 
     {
         int a =44;
+        int b =6;
 
 
     }
